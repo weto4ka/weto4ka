@@ -8,5 +8,5 @@ Most of my work is in closed-source and client projects, so my public repositori
 - **[Now or Never](https://github.com/weto4ka/Now-or-Never-Games)**: a team game made for the SG Developer Program.
 - **[Knight King](https://elzame.itch.io/knight-king)**: a retro-style knight game I built in Godot and published on itch.io.
 
-**More about my work:** [add the address of your page here]
+**More about my work:** [LinkedIn](https://www.lizamelnyk.com/)
 **Contact:** lizamelnyk@gmail.com · [LinkedIn](https://www.linkedin.com/in/elzamelnyk/)
