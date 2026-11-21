@@ -16,4 +16,4 @@ Most of my work is in closed-source and client projects, so my public repositori
 - **[Knight King](https://elzame.itch.io/knight-king)**: a retro-style knight game I built in Godot and published on itch.io.
 
 **More about my work:** [Webpage](https://www.lizamelnyk.com/)
-**Contact:** lizamelnyk@gmail.com · [LinkedIn](https://www.linkedin.com/in/elzamelnyk/)
+**Contact:** contact@lizamelnyk.com · [LinkedIn](https://www.linkedin.com/in/elzamelnyk/)
