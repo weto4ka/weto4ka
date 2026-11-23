@@ -9,13 +9,28 @@ Senior engineer and technical lead in Graz, Austria. I take products from the fi
 ![SQL and PostgreSQL](https://img.shields.io/badge/SQL%20%C2%B7%20PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Applied AI](https://img.shields.io/badge/Applied%20AI%20%C2%B7%20Agents-0F1728)
 
+## 🧰 Tech stack
+
+![Tech stack](https://skillicons.dev/icons?i=cs,dotnet,unity,godot,postgres,azure,aws,gcp&perline=8)
+
+## 🎮 Public projects
+
 Most of my work is in closed-source and client projects, so my public repositories are a few small personal ones:
 
-- **[Student Survival](https://github.com/weto4ka/StudentSurvival)**: a team game about student life that started at a game jam. I updated my fork to Unity 6.3.
-- **[Now or Never](https://github.com/weto4ka/Now-or-Never-Games)**: a team game made for the SG Developer Program.
-- **[Knight King](https://elzame.itch.io/knight-king)**: a retro-style knight game I built in Godot and published on itch.io.
+| Project | What it is |
+|---|---|
+| **[Student Survival](https://github.com/weto4ka/StudentSurvival)** | A team game about student life that started at a game jam. I updated my fork to Unity 6.3. |
+| **[Now or Never](https://github.com/weto4ka/Now-or-Never-Games)** | A team game made for the SG Developer Program. |
+| **[Knight King](https://elzame.itch.io/knight-king)** | A retro-style knight game I built in Godot and published on itch.io. |
 
-**More about my work:** [Webpage](https://www.lizamelnyk.com/)
-**Contact:** contact@lizamelnyk.com · [LinkedIn](https://www.linkedin.com/in/elzamelnyk/)
+## 📊 Languages in my public repos
 
-![Languages](metrics.languages.svg)
+![Most used languages](metrics.languages.svg)
+
+*Based on my public repositories only. Client work is closed-source and not counted.*
+
+## 📫 More about me
+
+- 🌐 **Webpage:** [lizamelnyk.com](https://www.lizamelnyk.com/)
+- ✉️ **Contact:** contact@lizamelnyk.com
+- 💼 **LinkedIn:** [elzamelnyk](https://www.linkedin.com/in/elzamelnyk/)
