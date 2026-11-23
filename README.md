@@ -17,3 +17,5 @@ Most of my work is in closed-source and client projects, so my public repositori
 
 **More about my work:** [Webpage](https://www.lizamelnyk.com/)
 **Contact:** contact@lizamelnyk.com · [LinkedIn](https://www.linkedin.com/in/elzamelnyk/)
+
+![Languages](metrics.languages.svg)
