@@ -9,9 +9,17 @@ Senior engineer and technical lead in Graz, Austria. I take products from the fi
 ![SQL and PostgreSQL](https://img.shields.io/badge/SQL%20%C2%B7%20PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Applied AI](https://img.shields.io/badge/Applied%20AI%20%C2%B7%20Agents-0F1728)
 
+## 🛡️ Featured project
+
+**[honeyrepo](https://github.com/weto4ka/honeyrepo)**: unit tests for your coding-agent sandbox.
+
+It builds a bait repository with a fake secret, runs a fixed scripted attacker inside your sandbox, and exits with a code your CI can check: LEAKED, HELD or INCONCLUSIVE. Python, no dependencies, alpha.
+
+<a href="https://github.com/weto4ka/honeyrepo"><img src="https://raw.githubusercontent.com/weto4ka/honeyrepo/main/docs/demo.gif" alt="honeyrepo checking eight sandbox setups, each matching its expected verdict" width="600"></a>
+
 ## 🎮 Public projects
 
-Most of my work is in closed-source and client projects, so my public repositories are a few small personal ones.
+Most of my work is in closed-source and client projects. Besides honeyrepo, my public repositories are a few small personal ones.
 
 <table>
   <tr>
